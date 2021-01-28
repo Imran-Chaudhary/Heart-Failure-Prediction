@@ -31,3 +31,18 @@ Ho: There is no significant difference between platelets distributed between pat
 
 Ha: There is a significant difference between platelets distributed between patients who died vs who survived.
 
+#### Data Overview
+
+![text](https://user-images.githubusercontent.com/68614187/106083250-c8efd100-60e1-11eb-8cbc-c2feecf24f49.png)
+
+### MEthods
+
+#### Histogram
+
+![text](https://user-images.githubusercontent.com/68614187/106083413-1704d480-60e2-11eb-8ec0-aeec30809ebf.png)
+
+#### t-test confirmation
+stats.ttest_ind(death_data['platelets'], no_death_data['platelets'])
+Ttest_indResult(statistic=-0.8478681784251544, pvalue=0.3971941540413678)
+
+
