@@ -59,3 +59,8 @@ Box plot shows that 'platelets' appears to be normally distributed in both death
 
 ![text](https://user-images.githubusercontent.com/68614187/106084015-191b6300-60e3-11eb-84d8-0afb3d5e7a11.png)
 
+#### Confidence Interval - 95% CI
+
+![text](https://user-images.githubusercontent.com/68614187/106084180-74e5ec00-60e3-11eb-9ef0-b6b51446d656.png)
+
+The difference in means at the 95% confidence interval (two-tail) is between -13566.099706320376 and 34118.989925942726. Which suggests the difference of platelets between survided and non survived patients.
