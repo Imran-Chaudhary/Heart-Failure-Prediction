@@ -25,4 +25,9 @@ Libraries and modules used are
 
 2. Patients who survived
 
+#### Hypothesis to Test
+ 
+Ho: There is no significant difference between platelets distributed between patients who died vs those who survived.
+
+Ha: There is a significant difference between platelets distributed between patients who died vs who survived.
 
