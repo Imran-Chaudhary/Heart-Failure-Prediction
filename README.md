@@ -41,8 +41,11 @@ Ha: There is a significant difference between platelets distributed between pati
 
 ![text](https://user-images.githubusercontent.com/68614187/106083413-1704d480-60e2-11eb-8ec0-aeec30809ebf.png)
 
-#### t-test confirmation
+#### t-test
 stats.ttest_ind(death_data['platelets'], no_death_data['platelets'])
+
 Ttest_indResult(statistic=-0.8478681784251544, pvalue=0.3971941540413678)
 
+#### Seborn
+![text](https://user-images.githubusercontent.com/68614187/106083726-98f4fd80-60e2-11eb-97c9-e4f50b47ba89.png)
 
